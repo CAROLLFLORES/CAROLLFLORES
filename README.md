@@ -40,7 +40,8 @@ Sitio Web institucional de cuerdas y cubre grip de tenis. Rediseño y estructura
 Desarrollo: <br>
 Rediseño y estructuración del sitio.
 
-_______________________________________________________________________
+
+._______________________________________________________________________.
 
 ➔ Apur Tenis - 2025 <br>
 Sitio Web institucional de compplejo de tenis, dentro de sistema de gestión. <br><br>

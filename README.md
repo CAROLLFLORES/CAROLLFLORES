@@ -52,6 +52,15 @@ Sitio Web institucional de compplejo de tenis, dentro de sistema de gestión. <b
 Desarrollo: <br>
 Python. Django. Json. JS. Css
 
+._______________________________________________________________________.
+
+➔ Obra SUr - 2023 <br>
+Sitio Web institucional de empresa constructora. <br><br>
+
+
+<img src="images/obrasur.png" alt="Foto" style="width:350px; cursor:pointer;"><br>
+Desarrollo: <br>
+Html. JS. Css. Bootstrap
 
 ---
 ###  ➤Contacto <br> <br>

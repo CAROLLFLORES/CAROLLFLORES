@@ -31,7 +31,10 @@
 ---
 ###  ➤ Proyectos
 
+➔ L-tec Premium - 2025
+Sitio Web institucional de cuerdas y cubre grip de tenis. Rediseño y estructuración del sitio. 
 
+![Vista del proyecto](images/ltec.png )
 
 <!--
 **CAROLLFLORES/CAROLLFLORES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

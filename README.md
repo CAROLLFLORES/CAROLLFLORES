@@ -2,7 +2,7 @@
 "Soy Diseñadora UX/Ui y Full Stack Developer. Apasionada por los desafíos y el aprendizaje constante, disfruto trabajar en equipo para alcanzar objetivos comunes y superar expectativas. Siempre busco crecer y aportar soluciones creativas en cada proyecto."
 
 ---
-###  ➤ Herramientas
+###  ➤ Herramientas y Lenguajes
 
 
 <p float="left">
@@ -44,13 +44,18 @@ Rediseño y estructuración del sitio.
 ._______________________________________________________________________.
 
 ➔ Apur Tenis - 2025 <br>
-Sitio Web institucional de compplejo de tenis, dentro de sistema de gestión. <br><br>
+Sistema de gestión de Torneos y Sitio Web institucional de compplejo de tenis, dentro de sistema de gestión. <br>
+Objetivo del sistema: <br>
+Gestionar torneos de tenis, jugadores, categorías, ascensos/descensos, ranking e historiales de manera ordenada y eficiente.<br>
+El proyecto incluye todo el proceso: **análisis, diseño, desarrollo, pruebas y despliegue**.<br><br>
 [Web](https://complejodetenisapur.com.ar/)
 
 
 <img src="images/apur.png" alt="Foto" style="width:350px; cursor:pointer;"><br>
+Presentacion_Web_Liga_Apur.mp4
+
 Desarrollo: <br>
-Python. Django. Json. JS. Css
+ Modelo de datos. Wireframes:. Wireflows. Python. Django. Json. JavaScript. Css. SQLite. Django ORM. Git / GitHub.
 
 ._______________________________________________________________________.
 

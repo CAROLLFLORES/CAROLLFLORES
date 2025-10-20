@@ -48,7 +48,7 @@ Sistema de gestión de Torneos y Sitio Web institucional de compplejo de tenis, 
 Objetivo del sistema: <br>
 Gestionar torneos de tenis, jugadores, categorías, ascensos/descensos, ranking e historiales de manera ordenada y eficiente.<br>
 El proyecto incluye todo el proceso: **análisis, diseño, desarrollo, pruebas y despliegue**.<br><br>
-[Web](https://complejodetenisapur.com.ar/)| [Video](https://www.youtube.com/watch?v=Vy9oJG1urvw)
+[Web](https://complejodetenisapur.com.ar/) | [Video](https://www.youtube.com/watch?v=Vy9oJG1urvw)
 
 
 <img src="images/apur.png" alt="Foto" style="width:350px; cursor:pointer;"><br>

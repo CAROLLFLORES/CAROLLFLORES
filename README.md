@@ -46,7 +46,7 @@ Para administrador para modificar productos y precios. Django. Sqlite. Html. Css
 ._______________________________________________________________________.
 
 ➔ Apur Tenis - 2025 <br>
-Sistema de gestión de Torneos y Sitio Web institucional de compplejo de tenis, dentro de sistema de gestión. <br>
+Sistema de gestión de Torneos y Sitio Web institucional de complejo de tenis, dentro de sistema de gestión. <br>
 Objetivo del sistema: <br>
 Gestionar torneos de tenis, jugadores, categorías, ascensos/descensos, ranking e historiales de manera ordenada y eficiente.<br>
 El proyecto incluye todo el proceso: **análisis, diseño, desarrollo, pruebas y despliegue**.<br><br>

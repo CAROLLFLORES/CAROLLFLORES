@@ -72,7 +72,9 @@ Html. JS. Css. Bootstrap
 ---
 ###  ➤Contacto <br> <br>
 
-✉ Mail: caroll02@htomail.com
+[<img width="40" height="40" src="https://github.com/user-attachments/assets/7a0ac732-ae78-4b7a-aba8-93f85fafe933" />](https://www.linkedin.com/in/caroll-flores-4a9226116/)  <br>
+ [<img width="35" height="35" src="https://github.com/user-attachments/assets/1029244d-cbae-42bf-ae61-b69e84d2df78" />](mailto:caroll02@hotmail.com)
+
 <!--
 **CAROLLFLORES/CAROLLFLORES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

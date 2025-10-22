@@ -1,5 +1,5 @@
 ### ➤ Sobre mi
-"Soy Diseñadora UX/Ui y Full Stack Developer. Apasionada por los desafíos y el aprendizaje constante, disfruto trabajar en equipo para alcanzar objetivos comunes y superar expectativas. Siempre busco crecer y aportar soluciones creativas en cada proyecto."
+"Soy Diseñadora Gráfica - UX/Ui y Full Stack Developer. Apasionada por los desafíos y el aprendizaje constante, disfruto trabajar en equipo para alcanzar objetivos comunes y superar expectativas. Siempre busco crecer y aportar soluciones creativas en cada proyecto."
 
 ---
 ###  ➤ Herramientas y Lenguajes

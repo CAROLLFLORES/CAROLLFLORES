@@ -39,7 +39,7 @@ Sitio Web institucional de cuerdas y cubre grip de tenis. Rediseño y estructura
 Desarrollo: <br>
 Rediseño y estructuración del sitio.<br><br>
 [Repo](https://github.com/CAROLLFLORES/Ltec.git) <br><br>
-<img src="images/ltecDjango.png" alt="Foto" style="width:350px; cursor:pointer;"><br>
+<img src="images/ltecDjango.png" alt="FotoLtec" style="width:350px; cursor:pointer;"><br>
 Desarrollo: <br>
 Para administrador para modificar productos y precios. Django. Sqlite. Html. Css. JavaScript
 

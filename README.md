@@ -35,7 +35,8 @@
 Sitio Web institucional de cuerdas y cubre grip de tenis. Rediseño y estructuración del sitio. <br><br>
 [Web](https://l-tectenis.com.ar/)
 
-<img src="images/ltec.png" alt="Foto" style="width:350px; cursor:pointer;"><br>
+<img src="https://raw.githubusercontent.com/CAROLLFLORES/CAROLLFLORES/main/images/ltec.png" 
+     alt="Foto" style="width:350px; cursor:pointer;"><br>
 Desarrollo: <br>
 Rediseño y estructuración del sitio.<br><br>
 [Repo](https://github.com/CAROLLFLORES/Ltec.git) <br><br>

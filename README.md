@@ -31,6 +31,12 @@
 
 ---
 ###  ➤ Proyectos <br> <br>
+➔ XIXON - 2024 <br>
+Sitio Web indumentaria deportiva.<br><br>
+<img width="350" height="185" alt="xixonReadme2" src="https://github.com/user-attachments/assets/f5220fc7-9d1c-4e3e-980d-b73a66cc2f3b" />
+<br><br>
+<img width="350" height="183" alt="xixonReadme" src="https://github.com/user-attachments/assets/c12280d2-eae6-4200-aea7-27d510143367" />
+<br>
 
 ➔ L-tec Premium - 2025 <br>
 Sitio Web institucional de cuerdas y cubre grip de tenis. Rediseño y estructuración del sitio. <br><br>

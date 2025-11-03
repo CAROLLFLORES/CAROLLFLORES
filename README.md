@@ -71,7 +71,10 @@ Gestionar torneos de tenis, de manera ordenada y eficiente<br>
 [Web](https://complejodetenisapur.com.ar/) | [Video](https://www.youtube.com/watch?v=Vy9oJG1urvw)
 
 
-<img src="images/apur.png" alt="Foto" style="width:350px; cursor:pointer;"><br>
+<img src="images/apur.png" alt="Foto" style="width:350px; cursor:pointer;">
+<br>
+<img width="350" height="184" alt="ligaReadme" src="https://github.com/user-attachments/assets/1b321b22-d3db-4595-adbd-056420b65f57" /><br>
+
 Desarrollo: <br>
 El proyecto incluye todo el proceso: **Análisis / Modelo de datos / Diseño / Wireflows / Desarrollo / Python / Django / Json / JavaScript<br> 
 Css / SQLite / GitHub / Pruebas / Publicación / Despliegue**.<br><br>
@@ -82,7 +85,8 @@ Css / SQLite / GitHub / Pruebas / Publicación / Despliegue**.<br><br>
 Sitio Web institucional de empresa constructora. <br><br>
 
 
-<img src="images/obrasur.png" alt="Foto" style="width:350px; cursor:pointer;"><br>
+<img src="images/obrasur.png" alt="Foto" style="width:350px; cursor:pointer;">
+<br>
 Desarrollo: <br>
 Html. JS. Css. Bootstrap
 

@@ -1,3 +1,4 @@
+<img width="521" height="185" alt="logo" src="https://github.com/user-attachments/assets/c7e9d8f9-3005-4907-8eb0-00efea33d8a2" /><br>
 ### ➤ Sobre mi
 "Soy Diseñadora Gráfica - UX/UI y Full Stack Developer. Apasionada por los desafíos y el aprendizaje constante, disfruto trabajar en equipo para alcanzar objetivos comunes y superar expectativas. Siempre busco crecer y aportar soluciones creativas en cada proyecto."
 

@@ -34,10 +34,9 @@
 
 ➔ L-tec Premium - 2025 <br>
 Sitio Web institucional de cuerdas y cubre grip de tenis. Rediseño y estructuración del sitio. <br><br>
-[Web](https://l-tectenis.com.ar/)
-
-<img src="https://raw.githubusercontent.com/CAROLLFLORES/CAROLLFLORES/main/images/ltec.png" 
-     alt="Foto" style="width:350px; cursor:pointer;"><br>
+[Web](https://l-tectenis.com.ar/)<br>
+<img width="350" height="142" alt="LtecWeb" src="https://github.com/user-attachments/assets/f8d5b845-4fa7-480a-ae41-cfcde3ef0618" />
+<br>
 Desarrollo: <br>
 Rediseño y estructuración del sitio.<br><br>
 [Repo](https://github.com/CAROLLFLORES/Ltec.git) <br><br>

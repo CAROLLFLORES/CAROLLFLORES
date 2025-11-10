@@ -46,7 +46,7 @@ Rediseño y estructuración del sitio.<br><br>
 <img width="350" height="165" alt="WebLtec" src="https://github.com/user-attachments/assets/2dbaea01-1546-4a9e-b03d-6535d26fe389" />
 
 Desarrollo: <br>
-Para administrador para modificar productos y precios. **Django / Sqlite / Html / Css / JavaScript**
+Para administrador pudiendo modificar productos y precios intuitivamente. **Django / Sqlite / Html / Css / JavaScript**
 
 ._______________________________________________________________________.
 

@@ -32,16 +32,7 @@
 
 ---
 ###  ➤ Proyectos <br> <br>
-➔ XIXON - 2024 <br>
-Sitio Web indumentaria deportiva.<br><br>
-<img width="350" height="185" alt="xixonReadme2" src="https://github.com/user-attachments/assets/f5220fc7-9d1c-4e3e-980d-b73a66cc2f3b" />
-<br><br>
-<img width="350" height="183" alt="xixonReadme" src="https://github.com/user-attachments/assets/c12280d2-eae6-4200-aea7-27d510143367" />
-<br>
-Desarrollo: <br>
-Diseño / Wireframes / Desarrollo<br><br>
-._______________________________________________________________________.
-<br><br>
+
 ➔ L-tec Premium - 2025 <br>
 Sitio Web institucional de cuerdas y cubre grip de tenis. Rediseño y estructuración del sitio. <br><br>
 [Web](https://l-tectenis.com.ar/)<br>
@@ -52,7 +43,8 @@ Sitio Web institucional de cuerdas y cubre grip de tenis. Rediseño y estructura
 Desarrollo: <br>
 Rediseño y estructuración del sitio.<br><br>
 [Repo](https://github.com/CAROLLFLORES/Ltec.git) <br><br>
-<img src="images/ltecDjango.png" alt="FotoLtec" style="width:350px; cursor:pointer;"><br>
+<img width="350" height="165" alt="WebLtec" src="https://github.com/user-attachments/assets/2dbaea01-1546-4a9e-b03d-6535d26fe389" />
+
 Desarrollo: <br>
 Para administrador para modificar productos y precios. **Django / Sqlite / Html / Css / JavaScript**
 
@@ -78,6 +70,17 @@ Gestionar torneos de tenis, de manera ordenada y eficiente<br>
 Desarrollo: <br>
 El proyecto incluye todo el proceso: **Análisis / Modelo de datos / Diseño / Wireflows / Desarrollo / Python / Django / Json / JavaScript<br> 
 Css / SQLite / GitHub / Pruebas / Publicación / Despliegue**.<br><br>
+
+._______________________________________________________________________.
+
+➔ XIXON - 2024 <br>
+Sitio Web indumentaria deportiva.<br><br>
+<img width="350" height="185" alt="xixonReadme2" src="https://github.com/user-attachments/assets/f5220fc7-9d1c-4e3e-980d-b73a66cc2f3b" />
+<br><br>
+<img width="350" height="183" alt="xixonReadme" src="https://github.com/user-attachments/assets/c12280d2-eae6-4200-aea7-27d510143367" />
+<br>
+Desarrollo: <br>
+Diseño / Wireframes / Desarrollo<br><br>
 
 ._______________________________________________________________________.
 

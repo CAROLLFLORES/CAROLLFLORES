@@ -1,4 +1,4 @@
-<img width="260" height="92" alt="logoCaroll" src="https://github.com/user-attachments/assets/7266bdba-de8e-4995-9c78-cbe12b56058f" />
+<img width="377" height="134" alt="logoGrisNaranja" src="https://github.com/user-attachments/assets/d3d83fd3-ff32-4f5c-b917-84ddd06a296f" />
 
 ###  ➤ Sobre mi
 "Soy Diseñadora Gráfica - UX/UI y Full Stack Developer. Apasionada por los desafíos y el aprendizaje constante, disfruto trabajar en equipo para alcanzar objetivos comunes y superar expectativas. Siempre busco crecer y aportar soluciones creativas en cada proyecto."

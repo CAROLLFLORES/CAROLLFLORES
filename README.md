@@ -38,6 +38,7 @@ Sitio Web institucional de salón de estéticas. Diseño y estructuración del s
 
 <img width="350" height="142" alt="LtecWeb" src="https://raw.githubusercontent.com/CAROLLFLORES/CAROLLFLORES/main/images/desktop.jpg" />
 <br><br>
+[Repo](https://github.com/CAROLLFLORES/vzestetica.git) <br><br>
 <img width="140" height="200" alt="LtecReadme" src="https://github.com/CAROLLFLORES/CAROLLFLORES/blob/main/images/responsivo.jpeg" />
 
 Desarrollo: <br>
@@ -57,7 +58,7 @@ Sitio Web institucional de cuerdas y cubre grip de tenis. Rediseño y estructura
 
 Desarrollo: <br>
 Maketacion / Diseño / Estructuración del sitio / Desarrollo.<br><br>
-[Repo](https://github.com/CAROLLFLORES/vzestetica.git) <br><br>
+[Repo](https://github.com/CAROLLFLORES/Ltec.git) <br><br>
 <img width="350" height="165" alt="WebLtec" src="https://github.com/user-attachments/assets/2dbaea01-1546-4a9e-b03d-6535d26fe389" />
 
 Desarrollo: <br>

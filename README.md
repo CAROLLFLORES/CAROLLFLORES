@@ -39,7 +39,7 @@ Sitio Web institucional de salón de estéticas. Diseño y estructuración del s
 <img width="350" height="162" alt="LtecWeb" src="https://raw.githubusercontent.com/CAROLLFLORES/CAROLLFLORES/main/images/desktop.jpg" />
 <br>
 Responsivo <br>
-<img width="140" height="200" alt="LtecReadme" src="https://github.com/CAROLLFLORES/CAROLLFLORES/blob/main/images/responsivo.jpeg" />
+<img width="120" height="200" alt="LtecReadme" src="https://github.com/CAROLLFLORES/CAROLLFLORES/blob/main/images/responsivo.jpeg" />
 
 Desarrollo: <br>
 Maketacion / Diseño / Estructuración del sitio / Desarrollo.<br><br>

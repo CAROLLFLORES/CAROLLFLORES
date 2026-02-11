@@ -38,7 +38,7 @@ Sitio Web institucional de salón de estéticas. Diseño y estructuración del s
 
 <img width="350" height="162" alt="LtecWeb" src="https://raw.githubusercontent.com/CAROLLFLORES/CAROLLFLORES/main/images/desktop.jpg" />
 <br>
-Responsivo <br>
+Vista Responsivo <br>
 <img width="120" height="200" alt="LtecReadme" src="https://github.com/CAROLLFLORES/CAROLLFLORES/blob/main/images/responsivo.jpeg" />
 
 Desarrollo: <br>
@@ -62,7 +62,9 @@ Maketacion / Diseño / Estructuración del sitio / Desarrollo.<br><br>
 <img width="350" height="165" alt="WebLtec" src="https://github.com/user-attachments/assets/2dbaea01-1546-4a9e-b03d-6535d26fe389" />
 
 Desarrollo: <br>
-Para administrador pudiendo modificar productos y precios intuitivamente. **Django / Sqlite / Html / Css / JavaScript**
+Para administrador pudiendo modificar productos y precios intuitivamente. <br><br>
+Herramientas: <br>
+**Django / Sqlite / Html / Css / JavaScript**
 
 ._______________________________________________________________________.
 
@@ -94,8 +96,8 @@ Sitio Web indumentaria deportiva.<br><br>
 <img width="350" height="185" alt="xixonReadme2" src="https://github.com/user-attachments/assets/f5220fc7-9d1c-4e3e-980d-b73a66cc2f3b" />
 <br><br>
 <img width="350" height="183" alt="xixonReadme" src="https://github.com/user-attachments/assets/c12280d2-eae6-4200-aea7-27d510143367" />
-<br>
-Desarrollo: <br>
+<br><br>
+Herramientas: <br>
 Diseño / Wireframes / Desarrollo<br><br>
 
 ._______________________________________________________________________.
@@ -106,7 +108,7 @@ Sitio Web institucional de empresa constructora. <br><br>
 
 <img src="images/obrasur.png" alt="Foto" style="width:350px; cursor:pointer;">
 <br>
-Desarrollo: <br>
+Herramientas: <br>
 Html. JS. Css. Bootstrap
 
 ---

@@ -36,7 +36,7 @@
 ➔ VZEstetica - 2026 <br>
 Sitio Web institucional de salón de estéticas. Diseño y estructuración del sitio. <br><br>
 
-<img width="350" height="142" alt="LtecWeb" src="https://github.com/user-attachments/assets/f8d5b845-4fa7-480a-ae41-cfcde3ef0618" />
+<img width="350" height="142" alt="LtecWeb" src="https://raw.githubusercontent.com/CAROLLFLORES/CAROLLFLORES/main/images/desktop.jpg" />
 <br><br>
 <img width="350" height="183" alt="LtecReadme" src="https://github.com/user-attachments/assets/6dfe650f-20a4-4116-a028-18d3aaa11bbb" />
 
@@ -46,7 +46,7 @@ Maketacion / Diseño / Estructuración del sitio / Desarrollo.<br><br>
 <img width="350" height="165" alt="WebLtec" src="https://github.com/user-attachments/assets/2dbaea01-1546-4a9e-b03d-6535d26fe389" />
 
 Herramientas: <br>
-**Figma / Html / Css / JavaScript**
+**Figma / Html / Css / JavaScript / Deploy en Cloudflare Pages**
 
 ._______________________________________________________________________.
 

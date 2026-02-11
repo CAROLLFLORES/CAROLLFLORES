@@ -36,9 +36,9 @@
 ➔ VZEstetica - 2026 <br>
 Sitio Web institucional de salón de estéticas. Diseño y estructuración del sitio. <br><br>
 
-<img width="330" height="142" alt="LtecWeb" src="https://raw.githubusercontent.com/CAROLLFLORES/CAROLLFLORES/main/images/desktop.jpg" />
+<img width="350" height="142" alt="LtecWeb" src="https://raw.githubusercontent.com/CAROLLFLORES/CAROLLFLORES/main/images/desktop.jpg" />
 <br><br>
-<img width="350" height="183" alt="LtecReadme" src="https://github.com/user-attachments/assets/6dfe650f-20a4-4116-a028-18d3aaa11bbb" />
+<img width="350" height="183" alt="LtecReadme" src="https://github.com/CAROLLFLORES/CAROLLFLORES/blob/main/images/responsivo.jpeg" />
 
 Desarrollo: <br>
 Maketacion / Diseño / Estructuración del sitio / Desarrollo.<br><br>

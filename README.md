@@ -33,6 +33,23 @@
 ---
 ###  ➤ Proyectos <br> <br>
 
+➔ VZEstetica - 2026 <br>
+Sitio Web institucional de salón de estéticas. Diseño y estructuración del sitio. <br><br>
+[Web](https://l-tectenis.com.ar/)<br>
+<img width="350" height="142" alt="LtecWeb" src="https://github.com/user-attachments/assets/f8d5b845-4fa7-480a-ae41-cfcde3ef0618" />
+<br><br>
+<img width="350" height="183" alt="LtecReadme" src="https://github.com/user-attachments/assets/6dfe650f-20a4-4116-a028-18d3aaa11bbb" />
+
+Desarrollo: <br>
+Maketacion / Diseño / Estructuración del sitio / Desarrollo.<br><br>
+[Repo](https://github.com/CAROLLFLORES/vzestetica.git) <br><br>
+<img width="350" height="165" alt="WebLtec" src="https://github.com/user-attachments/assets/2dbaea01-1546-4a9e-b03d-6535d26fe389" />
+
+Herramientas: <br>
+**Figma / Html / Css / JavaScript**
+
+._______________________________________________________________________.
+
 ➔ L-tec Premium - 2025 <br>
 Sitio Web institucional de cuerdas y cubre grip de tenis. Rediseño y estructuración del sitio. <br><br>
 [Web](https://l-tectenis.com.ar/)<br>

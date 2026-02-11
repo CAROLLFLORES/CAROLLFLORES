@@ -4,7 +4,7 @@
 "Soy Diseñadora Gráfica - UX/UI y Full Stack Developer. Apasionada por los desafíos y el aprendizaje constante, disfruto trabajar en equipo para alcanzar objetivos comunes y superar expectativas. Siempre busco crecer y aportar soluciones creativas en cada proyecto."
 
 ---
-###  ➤ Herramientas y Lenguajes
+###  ➤ Herramientas y Lenguajes<br>
 
 
 <p float="left">
@@ -97,8 +97,11 @@ Sitio Web indumentaria deportiva.<br><br>
 <br><br>
 <img width="350" height="183" alt="xixonReadme" src="https://github.com/user-attachments/assets/c12280d2-eae6-4200-aea7-27d510143367" />
 <br><br>
-Herramientas: <br>
+Desarrollo: <br>
 Diseño / Wireframes / Desarrollo<br><br>
+<br><br>
+Herramientas: <br>
+**Html / Css / JavaScript**
 
 ._______________________________________________________________________.
 

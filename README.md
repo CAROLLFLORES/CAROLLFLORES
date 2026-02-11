@@ -4,7 +4,7 @@
 "Soy Diseñadora Gráfica - UX/UI y Full Stack Developer. Apasionada por los desafíos y el aprendizaje constante, disfruto trabajar en equipo para alcanzar objetivos comunes y superar expectativas. Siempre busco crecer y aportar soluciones creativas en cada proyecto."
 
 ---
-###  ➤ Herramientas y Lenguajes<br>
+###  ➤ Herramientas y Lenguajes
 
 
 <p float="left">
@@ -38,7 +38,7 @@ Sitio Web institucional de salón de estéticas. Diseño y estructuración del s
 
 <img width="350" height="162" alt="LtecWeb" src="https://raw.githubusercontent.com/CAROLLFLORES/CAROLLFLORES/main/images/desktop.jpg" />
 <br>
-Vista Responsivo <br>
+Vista Responsivo <br><br>
 <img width="120" height="200" alt="LtecReadme" src="https://github.com/CAROLLFLORES/CAROLLFLORES/blob/main/images/responsivo.jpeg" />
 
 Desarrollo: <br>
@@ -98,7 +98,7 @@ Sitio Web indumentaria deportiva.<br><br>
 <img width="350" height="183" alt="xixonReadme" src="https://github.com/user-attachments/assets/c12280d2-eae6-4200-aea7-27d510143367" />
 <br><br>
 Desarrollo: <br>
-Diseño / Wireframes / Desarrollo<br><br>
+Diseño / Wireframes / Desarrollo
 <br><br>
 Herramientas: <br>
 **Html / Css / JavaScript**

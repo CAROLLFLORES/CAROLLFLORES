@@ -35,6 +35,7 @@
 
 ➔ VZEstetica - 2026 <br>
 Sitio Web institucional de salón de estéticas. Diseño y estructuración del sitio. <br><br>
+[Web](https://vzestetica.pages.dev/)<br>
 
 <img width="350" height="162" alt="LtecWeb" src="https://raw.githubusercontent.com/CAROLLFLORES/CAROLLFLORES/main/images/desktop.jpg" />
 <br>
